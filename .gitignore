@@ -13,6 +13,7 @@
 /phpBB/install/schemas/schema.json
 /phpBB/language/*
 !/phpBB/language/en
+!/phpBB/language/fi
 /phpBB/store/*
 /phpBB/styles/*
 !/phpBB/styles/prosilver
